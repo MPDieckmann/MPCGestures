@@ -17,6 +17,7 @@
   ],
   "author": "MPDieckmann",
   "license": "GPL-3.0",
+  "repository": "github:MPDieckmann/MPCGestures",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "@mpc/mpc": "github:MPDieckmann/MPC"
